@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Abrir Gmail",
+    "type": "🌐 Abrir Site",
+    "target": "https://gmail.com",
+    "schedule_time": "09:00",
+    "repeat_daily": true,
+    "status": "active",
+    "created_at": "2025-08-19T14:42:55.250740",
+    "last_run": null,
+    "next_run": "2025-08-20T09:00:00"
+  },
+  {
+    "id": 2,
+    "name": "Abrir Notepad",
+    "type": "💻 Abrir Aplicativo",
+    "target": "notepad.exe",
+    "schedule_time": "14:30",
+    "repeat_daily": false,
+    "status": "active",
+    "created_at": "2025-08-19T14:42:55.253697",
+    "last_run": null,
+    "next_run": "2025-08-20T14:30:00"
+  }
+]
